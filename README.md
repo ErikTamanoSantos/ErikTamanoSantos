@@ -7,11 +7,32 @@
 
 ---
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me :
 - 😄 My pronouns are He/Him.
 - 🔭 I'm currently working as a web developer and contributing to building a web application for manufacturing businesses.
 - 🌱 I'm currently learning how to work with web frameworks such as React, Angular, Astro and Proton and teaching myself to draw.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/erik-tama%C3%B1o-santos/))[![Linkedin Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/erik-tama%C3%B1o-santos/))[![Gmail Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-red?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
+
+---
+
+### 🛠️ Languages and tools :
+<div id="languages">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sourcetree/sourcetree-original-wordmark.svg" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="40">
+</div>
+
+---
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErikTamanoSantos&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **ErikTamanoSantos/ErikTamanoSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
