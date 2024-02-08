@@ -32,7 +32,7 @@
 
 ### 🔥 My Stats :
 <div id="stats" align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ErikTamanoSantos&theme=synthwave&hide_border=true&border_radius=5&card_width=600)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ErikTamanoSantos&theme=synthwave&hide_border=true&border_radius=5&card_width=600" alt="GitHub Streak" /></a>
 </div>
 
 <!--
