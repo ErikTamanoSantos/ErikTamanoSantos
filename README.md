@@ -11,7 +11,7 @@
 - 😄 My pronouns are He/Him.
 - 🔭 I'm currently working as a web developer and contributing to building a web application for manufacturing businesses.
 - 🌱 I'm currently learning how to work with web frameworks such as React, Angular, Astro and Proton and teaching myself to draw.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tama%C3%B1o-santos/)[![Gmail Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-red?style=flat&logo=Gmail&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Erik%20Tamaño%20Santos-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/erik-tama%C3%B1o-santos/)
 
 ---
 
